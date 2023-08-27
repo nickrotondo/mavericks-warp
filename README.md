@@ -1,8 +1,27 @@
 # mavericks-warp
+
 A dark theme for warp terminal inspired by the ocean and big waves
 
 ## Installation
- 1. Clone this repo with `git clone https://github.com/nickrotondo/mavericks-warp.git`
- 2. Create a folder for custom warp themes (if it doesn't already exist) `mkdir -p ~/.warp/themes/`
- 3. Copy the theme yaml to the warp themes folder `cp {{path to mavericks-warp}}/mavericks.yaml ~/.warp/themes/`
- 4. Open the Warp settings, click on 'Appearance', click on 'Current Theme', then scroll down and click on Mavericks from the list
+
+### Install using Git
+
+1.  Clone the repo
+    ```bash
+    git clone https://github.com/nickrotondo/mavericks-warp.git
+    ```
+2.  Create a folder for custom warp themes (if it doesn't already exist)
+    ```bash
+    mkdir -p ~/.warp/themes/
+    ```
+3.  Copy the theme yaml to the warp themes folder
+    ```bash
+    cp {{path to mavericks-warp}}/mavericks.yaml ~/.warp/themes/
+    ```
+
+#### Activating the Theme
+
+1. Start the Warp app
+2. Open the Command Palette using ⌘ + P or equivalent
+3. Search for "Open theme picker"
+4. Select Mavericks
