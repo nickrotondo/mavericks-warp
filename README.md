@@ -22,6 +22,6 @@ A dark theme for warp terminal inspired by the ocean and big waves
 #### Activating the Theme
 
 1. Start the Warp app
-2. Open the Command Palette using ⌘ + P or equivalent
+2. Open the Command Palette using `⌘ + P` or equivalent
 3. Search for "Open theme picker"
 4. Select Mavericks
