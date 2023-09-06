@@ -1,6 +1,6 @@
 accent: "#41BBE7" # Accent color for UI elements
 # Background with a gradient
-background: "#090F11"
+background: "#172b32"
 details: darker # Whether the theme is lighter or darker.
 foreground: "#E9F6FB" # The foreground color.
 terminal_colors: # Ansi escape colors.
